@@ -16,7 +16,7 @@ To physically run this, you need the fpga Basys3, and Vivado's program to progra
 
 # Demonstration
 
-![images](/images/fpga.jpeg)
+<div style="text-align:center"><img src="fpga.jpeg" /></div>
 
 We can only use the selected buttons/switches in the above image for interacting with the program. 
 
