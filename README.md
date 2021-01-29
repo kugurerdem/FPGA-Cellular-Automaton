@@ -11,6 +11,6 @@ To physically run this, you need the fpga Basys3, and Vivado's program to progra
 
 # Demonstration
 
-![images](/images/fpga.jpeg=200x120)
+![images](./images/fpga.jpeg =200x120)
 
 To run 
