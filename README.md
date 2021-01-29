@@ -4,10 +4,10 @@ This is a project where I have built a cellular automata to Basys3 FPGA. A [cell
 
 This was an assignment from a computer science course called Digital Design. What this program is supposed to do is described in the file CS223Project_v3.pdf, the cellgroups and rules that are determined by my ID number can be seen in the files myCellGroups.png and myRules.png, furthermore, the block diagrams, high level state machine structure and block explanations that I have used making this program are presented in the file CS223 Project Report.pdf
 
-<div style="text-align:center"><img src="myCellGroups.png" /></div>
+<div style="text-align:center"><img src="myCellGroups.png"/></div>
 myCellGroups.png
 
-<div style="text-align:center"><img src="myRules.png" /></div>
+<div style="text-align:center"><img src="myRules.png"/></div>
 myRules.png
 
 # How to run it?
