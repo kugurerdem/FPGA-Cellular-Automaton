@@ -7,5 +7,7 @@ This was an assignment from a computer science course called Digital Design. Wha
 
 # How to run it?
 
+To physically run this, you need the fpga Basys3, and Vivado's program to program it. First open the project.xpr file, then connect your Basys3 into computer. Open the hardware manager and click open the target -> auto-connect. Then right click xc7a35t_0 and select "program it", now you must be able to physically run our cellular automata through the FPGA.
 
 # Demonstration
+
